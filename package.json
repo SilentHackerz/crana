@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SilentHackerz/crana/issues"
   },
-  "homepage": "https://github.com/SilentHackerz/crana#readme"
+  "homepage": "https://github.com/SilentHackerz/crana#readme",
+  "keywords": [
+    "nodejs",
+    "reactjs"
+  ]
 }
