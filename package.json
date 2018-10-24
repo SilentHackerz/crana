@@ -1,0 +1,19 @@
+{
+  "name": "crana",
+  "version": "1.0.0",
+  "description": "nodejs and reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilentHackerz/crana.git"
+  },
+  "author": "Mohammad Ayub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilentHackerz/crana/issues"
+  },
+  "homepage": "https://github.com/SilentHackerz/crana#readme"
+}
